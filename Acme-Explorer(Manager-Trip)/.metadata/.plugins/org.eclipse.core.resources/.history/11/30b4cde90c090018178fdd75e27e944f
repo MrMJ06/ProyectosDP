@@ -1,0 +1,13 @@
+
+package controllers.manager;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.transaction.annotation.Transactional;
+
+import controllers.AbstractController;
+
+@Controller
+@Transactional
+public class AlertManagerController extends AbstractController {
+
+}

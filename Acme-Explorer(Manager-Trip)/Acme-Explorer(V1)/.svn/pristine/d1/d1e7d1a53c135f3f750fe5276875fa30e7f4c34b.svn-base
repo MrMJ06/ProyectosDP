@@ -1,0 +1,58 @@
+# messages.properties
+#
+# Copyright (C) 2017 Universidad de Sevilla
+# 
+# The use of this project is hereby constrained to the conditions of the 
+# TDG Licence, a copy of which you may download from 
+# http://www.tdg-seville.info/License.html
+
+master.page.administrator			= Administrator
+
+
+master.page.explorer				= Explorer
+master.page.ranger					= Ranger
+master.page.sponsor					= Sponsor
+master.page.manager					= Manager
+master.page.auditor					= Auditor
+
+master.page.profile 				= Profile
+
+master.page.searchs					= Searchs in the System
+master.page.admin					= Admin
+
+master.page.login 					= Login
+master.page.register.explorer 		= Register as explorer
+master.page.register.ranger 		= Register as ranger
+master.page.logout 					= Logout
+master.page.curriculumList			= Show Curriculum
+
+format.price						={0,number,'&euro;' ####.##}
+format.date							={0,date,yyyy/dd/MM HH:mm}
+format.date.out						=yyyy/dd/MM HH:mm
+language							= en
+
+master.page.tripList				= Trip list
+master.page.configurationList		= Configuration
+master.page.actorEdit				= Edit your profile
+master.page.actorMessageFolder		= Message folders
+master.page.survivalClassList		= Survival classes
+master.page.survivalClassListManaged= Survival classes managed
+master.page.categoryList			= Category list
+master.page.sponsorshipList			= Sponsorship list
+master.page.applicationList			= Application list
+master.page.auditRecordList			= Audit record list
+master.page.noteList				= Note list
+master.page.list.suspicious			= Suspicious users list
+master.page.dashboardList			= Dashboard
+master.page.socialIdentities		= Social identities
+master.page.legalText				= Legal texts
+master.page.tag						= Tags
+
+master.page.manager.tripList		= Managed trips
+
+master.page.contacts				= Contact list
+
+master.page.register				= Register a new actor
+
+params.error						= Error in the inputs
+commit.error						= Error commiting

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!-- 
+ * tiles_es.xml
+ *
+ * Copyright (C) 2017 Universidad de Sevilla
+ * 
+ * The use of this project is hereby constrained to the conditions of the 
+ * TDG Licence, a copy of which you may download from 
+ * http://www.tdg-seville.info/License.html
+ -->
+
+<!DOCTYPE tiles-definitions PUBLIC
+       "-//Apache Software Foundation//DTD Tiles Configuration 2.0//EN"
+       "http://tiles.apache.org/dtds/tiles-config_2_0.dtd">
+      
+<tiles-definitions>
+
+	<definition name="actor/register-explorer" extends="master.page">	
+		<put-attribute name="title" value="Registrarse como explorador" />
+		<put-attribute name="body" value="/views/actor/register-explorer.jsp" />
+	</definition>
+	<definition name="actor/register-ranger" extends="master.page">	
+		<put-attribute name="title" value="Registrarse como ranger" />
+		<put-attribute name="body" value="/views/actor/register-ranger.jsp" />
+	</definition>
+	<definition name="actor/register-manager" extends="master.page">	
+		<put-attribute name="title" value="Registrar a un gerente" />
+		<put-attribute name="body" value="/views/actor/register-manager.jsp" />
+	</definition>
+	<definition name="actor/register-auditor" extends="master.page">	
+		<put-attribute name="title" value="Registrar a un auditor" />
+		<put-attribute name="body" value="/views/actor/register-auditor.jsp" />
+	</definition>
+	<definition name="actor/register-sponsor" extends="master.page">	
+		<put-attribute name="title" value="Registrar a un patrocinador" />
+		<put-attribute name="body" value="/views/actor/register-sponsor.jsp" />
+	</definition>
+	<definition name="actor/register-admin" extends="master.page">	
+		<put-attribute name="title" value="Registrar a un administrador" />
+		<put-attribute name="body" value="/views/actor/register-admin.jsp" />
+	</definition>
+	<definition name="actor/edit" extends="master.page">	
+		<put-attribute name="title" value="Editar datos personales" />
+		<put-attribute name="body" value="/views/actor/edit.jsp" />
+	</definition>
+	<definition name="actor/list-suspicious" extends="master.page">	
+		<put-attribute name="title" value="Lista de cuentas sospechosas" />
+		<put-attribute name="body" value="/views/actor/list-suspicious.jsp" />
+	</definition>
+	<definition name="actor/register" extends="master.page">	
+		<put-attribute name="title" value="Registrar un nuevo actor" />
+		<put-attribute name="body" value="/views/actor/register.jsp" />
+	</definition>
+	
+</tiles-definitions>

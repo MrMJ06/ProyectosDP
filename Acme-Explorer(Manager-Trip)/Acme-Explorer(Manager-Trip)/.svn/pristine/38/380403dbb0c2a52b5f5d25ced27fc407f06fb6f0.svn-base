@@ -1,0 +1,119 @@
+# messages_es.properties
+#
+# Copyright (C) 2017 Universidad de Sevilla
+# 
+# The use of this project is hereby constrained to the conditions of the 
+# TDG Licence, a copy of which you may download from 
+# http://www.tdg-seville.info/License.html
+
+trip.ticker 									= Identificador
+trip.title 										= Título
+trip.description 								= Descripción
+trip.price 										= Precio
+trip.requirements 								= Requisitos
+trip.startDate 									= Fecha de comienzo
+trip.endDate 									= Fecha de finalización
+trip.publicationDate 							= Fecha de publicación
+trip.cancelReason 								= Motivo de cancelación
+trip.sponsorships 								= Patrocinios
+trip.stages 									= Etapas
+trip.stories 									= Historias
+trip.survivalClasses 							= Clases de supervivencia
+trip.tags 										= Etiquetas
+trip.ranger 									= Ranger
+trip.legalText									= Texto legal
+trip.category 									= Categoría
+trip.auditRecords 								= Audiciones
+trip.ranger.curriculum							= Mostrar curriculum del Ranger
+trip.save										= Guardar
+trip.delete										= Borrar
+trip.cancel										= Cancelar
+
+trip.notes										= Notas
+trip.managers 									= Gerente
+
+tagValue.create									= Crear un nuevo valor para una etiqueta
+tagValue.delete									= Borrar el valor de esta etiqueta
+
+trip.create										= Crear un nuevo viaje
+
+trip.moreDetails 								= Más detalles
+trip.join 										= Unirse
+trip.moreDetails 								= Más detalles
+trip.edit 										= Editar
+trip.apply 										= Inscribirse a este viaje
+trip.manage 									= Administrar este viaje
+
+trip.search										= Buscar
+trip.startPrice									= Precio de inicio
+trip.endPrice									= Precio de fin
+trip.startDate									= Fecha de inicio
+trip.endDate									= Fecha de fin
+
+detailed.trip.edit								= Editar
+detailed.trip.join								= Unirse
+detailed.trip.manageSurvivalClasses 			= Gestionar clases de supervivencia
+detailed.trip.remove							= Eliminar
+detailed.trip.createSurvivalClass				= Crear clase de supervivencia
+trip.cancel.reason								=Cancelar este viaje
+trip.reason										=Razón
+trip.cancel										=Cancelar
+detailedTrip.cancel								=Cancelar
+
+error.message 									= No se ha podido realizar la acción
+
+
+detailedTrip.stage.title						=Título
+detailedTrip.cancel								=Cancelar este viaje
+detailedTrip.stage.description					=Descripción
+detailedTrip.stage.price						=Precio
+
+detailedTrip.story.title						=Título
+detailedTrip.story.text							=Texto
+detailedTrip.story.attachments					=Archivo adjunto
+
+detailedTrip.survivalClass.title				=Título
+detailedTrip.survivalClass.description 			=Descripción
+detailedTrip.survivalClass.organisationMoment 	=Momento de Organización
+detailedTrip.survivalClass.location 			=Localización
+
+trip.tagValue.create							= Crear un nuevo valor para una etiqueta
+tagValue.edit									= Editar el valor de una etiqueta
+trip.tagValue.list								= Lista de valores para las etiquetas
+
+detailedTrip.auditRecord.moment 				=Momento
+detailedTrip.auditRecord.title 					=Título
+detailedTrip.auditRecord.description			=Descripción
+detailedTrip.auditRecord.attachments			=Archivo adjunto
+detailedTrip.auditRecord.auditor				=Auditor
+
+detailedTrip.notes.moment						=Momento
+detailedTrip.notes.remark						=Firma
+detailedTrip.notes.reply						=Respuesta
+detailedTrip.notes.momentReply					=Momento de respuesta
+detailedTrip.notes.manager.reply				=Respuesta
+detailedTrip.story.create						=Crear una historia
+trip.params.error								= Error en las entradas
+trip.commit.error								= Error haciendo al realizar la operación
+trip.confirm.delete								= ¿Borrar este trip?
+
+stage.confirm.delete							= ¿Borrar esta etapa?
+stage.create									= Añadir una nueva etapa
+stage.edit										= Editar
+stage.input.error								= No puede estar vacío
+
+trip.tagValue.value								= Valor
+trip.tagValue.tag								= Etiqueta
+
+search.keyword.placeholder						= Título, identificador o descripción
+detailedTrip.notes.create						= Crear nueva nota
+sponsorship.create								= Patrocina este viaje
+detailed.trip.auditRecords						= Auditorías en este viaje
+detailed.trip.notes								= Notas en este viaje
+detailed.trip.stages							= Etapas en este viaje
+detailed.trip.survivalClasses					= Clases de supervivencia en este viaje
+detailed.trip.stories							= Historias de este viaje
+
+trip.survivalClass.multiple.info				= Pulse "Control" para poder seleccionar varias clases de supervivencia
+
+story.params.error								= Error en los parametros

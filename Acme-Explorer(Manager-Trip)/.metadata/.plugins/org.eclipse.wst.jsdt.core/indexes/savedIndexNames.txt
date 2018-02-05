@@ -1,0 +1,3 @@
+INDEX VERSION 1.122+E:\Acme-Explorer(MV)\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3437507390.index
+3055520075.index

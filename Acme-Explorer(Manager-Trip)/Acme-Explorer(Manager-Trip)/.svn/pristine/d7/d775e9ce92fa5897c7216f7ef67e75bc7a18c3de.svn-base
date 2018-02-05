@@ -1,0 +1,31 @@
+# messages_es.properties
+#
+# Copyright (C) 2017 Universidad de Sevilla
+# 
+# The use of this project is hereby constrained to the conditions of the 
+# TDG Licence, a copy of which you may download from 
+# http://www.tdg-seville.info/License.html
+
+sponsorship.add 							= Añadir
+sponsorship.edit 							= Editar
+sponsorship.save							= Guardar
+sponsorship.delete 							= Borrar
+sponsorship.confirm.delete 					= ¿Borrar este patrocinio? 
+sponsorship.cancel 							= Cancelar
+sponsorship.input.error						= Debes rellenar este campo
+
+
+sponsorship.create							= Crear nuevo pratrocinio
+
+
+sponsorship.creditCard.info 				= información de la tarjeta de crédito
+sponsorship.creditcard.holdername			= Nombre del titular
+sponsorship.creditcard.brandname			= Nombre de la marca
+sponsorship.creditcard.number				= Número de la tarjeta de crédito
+sponsorship.creditcard.expirationMonth		= Mes de vencimiento
+sponsorship.creditcard.expirationYear		= Año de vencimiento
+sponsorship.creditcard.CVV					= CVV
+
+sponsorship.bannerUrl 						= Banner
+sponsorship.additionalInfoLink 				= Informacion Adicional
+sponsorship.trip.title						= Título del viaje

@@ -1,0 +1,64 @@
+# messages_es.properties
+#
+# Copyright (C) 2017 Universidad de Sevilla
+# 
+# The use of this project is hereby constrained to the conditions of the 
+# TDG Licence, a copy of which you may download from 
+# http://www.tdg-seville.info/License.html
+
+curriculum.personalRecord.nameOfCandidate				= Nombre del Candidato
+curriculum.personalRecord.photo							= Fotografía
+curriculum.personalRecord.email							= Dirección de correo electrónico
+curriculum.personalRecord.phoneNumber					= Número de teléfono
+curriculum.personalRecord.linkedInProfileURL			= Perfil de LinkedIn
+
+curriculum.personalRecord								= Registro personal
+curriculum.professionalRecords							= Registro profesional
+curriculum.endorserRecords								= Registro endosante
+curriculum.miscellaneousRecords							= Registro misceláneo
+curriculum.educationRecords								= Registros educativos
+
+
+
+
+curriculum.professionalRecord.companyName				= Nombre de la compañia
+curriculum.professionalRecord.workingPeriodStart		= Fecha inicio del periodo laboral
+curriculum.professionalRecord.workingPeriodEnd			= Fecha fin del periodo laboral
+curriculum.professionalRecord.commentaries				= Comentarios
+curriculum.professionalRecord.attachment				= Archivo Adjunto
+curriculum.professionalRecord.role						= Rol
+
+
+curriculum.miscellaneousRecord.title					= Título
+curriculum.miscellaneousRecord.attachment				= Archivo Adjunto
+curriculum.miscellaneousRecord.commentaries				= Comentarios
+curriculum.ticker										= Ticker
+curriculum.edit											= Editar
+
+
+curriculum.educationRecord.diplomaTitle					= Título del diploma 
+curriculum.educationRecord.studyingPeriodStart			= Fecha inicio de periodo de estudio 
+curriculum.educationRecord.studyingPeriodEnd			= Fecha fin periodo de estudio
+curriculum.educationRecord.institution					= Institución 
+curriculum.educationRecord.attachment					= Archivo Adjunto 
+curriculum.educationRecord.commentaries					= Comentarios 
+
+curriculum.endorserRecord.fullName						= Nombre completo 
+curriculum.endorserRecord.email							= Dirección de correo electrónico 
+curriculum.endorserRecord.phoneNumber					= Número de teléfono 
+curriculum.endorserRecord.linkedInProfileUrl			= Url de LinkedInProfile 
+curriculum.endorserRecord.commentaries					= Comentarios 
+curriculum.endorserRecord.attachment					= Archivo Adjunto 
+
+curriculum.endorserRecord.create						= Crear nuevo registro endosante
+curriculum.educationRecord.create						= Crear nuevo registros educativos
+curriculum.professionalRecord.create					= Crear nuevo registro profesional
+curriculum.personalRecord.create						= Crear nuevo registro personal
+curriculum.miscellaneousRecord.create					= Crear nuevo registro misceláneo
+
+curriculum.confirm.phone								= ¿Seguro que quieres introducir este teléfono?
+
+curriculum.save											= Guardar 
+curriculum.delete 										= Borrar currículum
+curriculum.cancel										= Cancelar
+curriculum.create										= Crear nuevo currículum
