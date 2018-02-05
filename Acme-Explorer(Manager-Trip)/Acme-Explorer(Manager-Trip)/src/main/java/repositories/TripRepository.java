@@ -28,7 +28,7 @@ public interface TripRepository extends JpaRepository<Trip, Integer> {
 	Collection<Manager> getManagerFromTripsWithMoreAlerts();
 
 	@Query("select t from Trip t join t.managers m where m.alerts.size = (select max(mn.alerts.size) from Manager mn) group by t")
-	Collection<Manager> getTripsFromManagerWithMoreAlerts();
+	Collection<Trip> getTripsFromManagerWithMoreAlerts();
 	/*****/
 
 	@Query("select a  from Trip t join t.alerts a where t.id=?1 and (a.moment is null or a.moment < NOW())")
