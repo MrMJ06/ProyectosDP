@@ -3,6 +3,7 @@ package controllers.manager;
 
 import java.util.ArrayList;
 import java.util.Collection;
+import java.util.Date;
 
 import javax.validation.Valid;
 
@@ -47,10 +48,14 @@ public class AlertManagerController extends AbstractController {
 
 		final Manager actor = (Manager) this.actorService.findActorByPrincipal();
 		Collection<Alert> alerts = new ArrayList<Alert>();
+		final Collection<Trip> trips = new ArrayList<Trip>();
 
 		alerts = actor.getAlerts();
+		for (final Alert a : alerts)
+			trips.add(this.alertService.findTripByAlert(a));
 
 		result.addObject("alerts", alerts);
+		result.addObject("trips", trips);
 		return result;
 	}
 	// Editing ---------------------------------------------------------------	
@@ -62,6 +67,7 @@ public class AlertManagerController extends AbstractController {
 		try {
 			alert = this.alertService.findOne(alertId);
 			trip = this.alertService.findTripByAlert(alert);
+			Assert.isTrue(trip.getStartDate().after(new Date()));
 			result = this.createEditModelAndView(alert);
 			result.addObject("tripId", trip.getId());
 		} catch (final Throwable oops) {
@@ -127,6 +133,7 @@ public class AlertManagerController extends AbstractController {
 			trip = this.tripService.findOne(tripId);
 			manager = (Manager) this.actorService.findActorByPrincipal();
 			Assert.isTrue(trip.getManagers().contains(manager));
+			Assert.isTrue(trip.getStartDate().after(new Date()));
 			alert = this.alertService.create();
 			result = this.createEditModelAndView(alert);
 			result.addObject("tripId", tripId);

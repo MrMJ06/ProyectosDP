@@ -11,7 +11,9 @@
 	uri="http://www.springframework.org/security/tags"%>
 <%@taglib prefix="display" uri="http://displaytag.sf.net"%>
 
-
+<jsp:useBean id="now" class="java.util.Date" />
+<fmt:formatDate var="currentDate" value="${now}"
+	pattern="yyyy-MM-dd HH:mm" />
 <display:table name="alerts" id="alert"
 	requestURI="alert/manager/list.do" pagesize="${pagesize}"
 	class="displayTag">
@@ -25,24 +27,31 @@
 	<jstl:if test="${alert.gauge==\"3\"}">
 		<jstl:set var="classTd" value="gauge3" />
 	</jstl:if>
-	
+
 	<spring:message code="alert.title" var="alertTitle" />
 	<spring:message code="alert.description" var="alertDescription" />
 	<spring:message code="alert.trip" var="alertTrip" />
 	<spring:message code="alert.moment" var="alertMoment" />
+	<spring:message code="alert.trip" var="trip" />
 	<spring:message code="format.date" var="patternMoment" />
-	
-	<display:column property="title" title="${alertTitle}" class="${classTd}" />
+
+	<display:column property="title" title="${alertTitle}"
+		class="${classTd}" />
 	<display:column property="description" title="${alertDescription}"
 		class="${classTd}" />
 	<display:column property="moment" title="${alertMoment}"
-		class="${classTd}" format="${patternMoment}"/>
+		class="${classTd}" format="${patternMoment}" />
 	<display:column class="${classTd}">
-		<a href="alert/manager/edit.do?alertId=${alert.id}">
-			<button class="btn">
-				<spring:message code="alert.edit" />
-			</button>
-		</a>
+		<jstl:if test="${trips[alert_rowNum -1].startDate>currentDate}">
+			<a href="alert/manager/edit.do?alertId=${alert.id}">
+				<button class="btn">
+					<spring:message code="alert.edit" />
+				</button>
+			</a>
+		</jstl:if>
 	</display:column>
-	
+	<display:column class="${classTd}" title="${trip}"> 
+		<jstl:out value="${trips[alert_rowNum -1].title}" />
+	</display:column>
+
 </display:table>
