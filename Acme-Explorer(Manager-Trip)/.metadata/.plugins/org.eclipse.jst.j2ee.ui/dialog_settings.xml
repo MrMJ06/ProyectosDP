@@ -3,6 +3,7 @@
 	<item value="true" key="J2EE_EXPORT_OVERWRITE"/>
 	<item value="false" key="J2EE_EXPORT_SOURCE"/>
 	<list key="J2EE_EXPORT_JST_WEB">
+		<item value="E:\ExamenDP\Acme-Explorer.war"/>
 		<item value="E:\Acme-Explorer-DF.war"/>
 		<item value="E:\Acme-Explorer(Corregido).war"/>
 		<item value="E:\Acme-Explorer.war"/>

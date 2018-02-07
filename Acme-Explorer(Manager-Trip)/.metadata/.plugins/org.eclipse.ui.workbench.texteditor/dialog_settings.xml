@@ -2,9 +2,9 @@
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
 		<item value="237" key="DIALOG_WIDTH"/>
-		<item value="271" key="DIALOG_Y_ORIGIN"/>
+		<item value="242" key="DIALOG_Y_ORIGIN"/>
 		<item value="362" key="DIALOG_HEIGHT"/>
-		<item value="792" key="DIALOG_X_ORIGIN"/>
+		<item value="1110" key="DIALOG_X_ORIGIN"/>
 		<item value="1|Tahoma|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|1|0|0|0|0|Tahoma" key="DIALOG_FONT_NAME"/>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
@@ -13,16 +13,16 @@
 		<item value="true" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="false" key="wholeword"/>
-		<item value="title" key="selection"/>
+		<item value="row3_rowNum" key="selection"/>
 		<list key="findhistory">
+			<item value="row3_rowNum"/>
+			<item value="survival"/>
+			<item value="Trip2"/>
+			<item value="Alert1"/>
 			<item value="title"/>
 			<item value="tagV"/>
 			<item value="Manager1"/>
-			<item value="Trip2"/>
 			<item value="survivalC"/>
-			<item value="detai"/>
-			<item value="price"/>
-			<item value="Alert"/>
 		</list>
 		<list key="replacehistory">
 			<item value=".err."/>

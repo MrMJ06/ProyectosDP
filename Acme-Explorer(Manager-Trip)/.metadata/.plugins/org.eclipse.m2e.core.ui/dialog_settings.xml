@@ -52,6 +52,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="E:\ProyectosDP\Acme-Explorer(Manager-Trip)"/>
 			<item value="E:\DeploymentWorkSpace\Acme-Explorer(V2)"/>
 			<item value="E:\DeploymentWorkSpace\Acme-Explorer(V1)"/>
 			<item value="E:\DeploymentWorkSpace\Acme-Explorer"/>
@@ -66,7 +67,6 @@
 			<item value="E:\Sample Workspace 1.7\Sample Project 1.7"/>
 			<item value="X:\Sample Project 1.6"/>
 			<item value="X:\Sample Workspace 1.6\Sample Project 1.6"/>
-			<item value="C:\Users\corchu\VirtualBox VMs\Design-Testing\Sample Workspace 1.4\Sample Project 1.4"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

@@ -1,0 +1,58 @@
+# messages_es.properties
+#
+# Copyright (C) 2017 Universidad de Sevilla
+# 
+# The use of this project is hereby constrained to the conditions of the 
+# TDG Licence, a copy of which you may download from 
+# http://www.tdg-seville.info/License.html
+
+master.page.administrator			= Administrador
+
+
+master.page.explorer				= Explorador
+master.page.ranger					= Ranger
+master.page.sponsor					= Patrocinador
+master.page.manager					= Gerente
+master.page.auditor					= Auditor
+
+master.page.profile 				= Perfil
+master.page.admin					= Admin
+
+master.page.login 					= Entrar
+master.page.register.explorer 		= Registrarse como explorador
+master.page.survivalClassList		= Clases de supervivencia
+master.page.survivalClassListManaged= Clases de supervivencia gestionadas
+master.page.register.ranger 		= Registrarse como ranger
+master.page.logout 					= Salir
+master.page.curriculumList			= Mostrar Curriculum
+
+master.page.searchs					= Búsquedas en el sistema
+
+format.price						={0,number,####.## '&euro;'}
+format.date							={0,date,dd/MM/yyyy HH:mm}
+format.date.out						=dd/MM/yyyy HH:mm
+language							= es
+
+master.page.tripList				= Lista de viajes
+master.page.configurationList		= Configuración
+master.page.actorEdit				= Editar perfil
+master.page.actorMessageFolder		= Carpeta de mensajes
+master.page.categoryList			= Lista de categorías
+master.page.sponsorshipList			= Lista de patrocinios
+master.page.applicationList			= Lista de solicitudes
+master.page.auditRecordList			= Lista de registros de auditorías
+master.page.noteList				= Lista de notas
+master.page.list.suspicious			= Lista de usuarios sospechosos
+master.page.dashboardList			= Dashboard
+master.page.socialIdentities		= Perfiles en las redes sociales
+master.page.legalText				= Textos legales
+master.page.tag						= Etiquetas
+
+master.page.manager.tripList		= Viajes gestionados
+
+master.page.contacts				= Lista de contactos
+
+master.page.register				= Registrar a un nuevo actor
+
+params.error						= Error en las entradas
+commit.error						= Error realizando la acción

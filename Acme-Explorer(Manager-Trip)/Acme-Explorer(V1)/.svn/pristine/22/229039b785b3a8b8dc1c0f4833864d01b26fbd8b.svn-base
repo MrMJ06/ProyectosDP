@@ -1,0 +1,42 @@
+# messages_es.properties
+#
+# Copyright (C) 2017 Universidad de Sevilla
+# 
+# The use of this project is hereby constrained to the conditions of the 
+# TDG Licence, a copy of which you may download from 
+# http://www.tdg-seville.info/License.html
+
+actor.ranger			= Ranger
+actor.explorer			= Explorador
+actor.name 				= Nombre
+actor.surname 			= Apellidos
+actor.email 			= Email
+actor.address 			= Dirección
+actor.phoneNumber 		= Número de teléfono
+actor.username 			= Usuario
+actor.save.register		= Registrarse
+actor.save.edit			= Editar
+actor.delete			= Borrar
+actor.cancel			= Cancelar
+
+actor.params.error		= Error en los parametros
+actor.commit.error		= Error haciendo commit
+
+actor.confirm.delete	= ¿Borrar este usuario?
+actor.confirm.phone		= ¿Insertar este numero de teléfono?
+
+actor.ban				= Expulsar a este usuario
+actor.unban				= Readimitir a este usuario
+
+actor.confirm.ban		= ¿Seguro que quiere expulsar a este usuario?
+actor.confirm.unban		= ¿Seguro que quiere readmitir a este usuario?
+
+actor.email.placeholder 			= ejemplo@dominio.com
+actor.address.placeholder 			= Calle falsa 123
+
+master.page.register-manager		= Registrar un gerente
+master.page.register-auditor		= Registrar un auditor
+master.page.register-sponsor		= Registrar un patrocinador
+master.page.register-admin			= Registrar un administrador
+master.page.register-ranger			= Registrar un ranger
+master.page.register-explorer		= Registrar un exporador

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="72" version="2.0">
+<workbench progressCount="78" version="2.0">
 <workbenchAdvisor/>
 <window height="675" maximized="true" width="951" x="320" y="75">
 <fastViewData fastViewLocation="1024"/>
@@ -13,11 +13,11 @@
 <coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="124" y="22"/>
 <coolItem id="org.eclipse.jst.j2ee.J2eeMainActionSet" itemType="typeToolBarContribution" x="88" y="22"/>
 <coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="98" y="22"/>
-<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="131" y="22"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="62" y="22"/>
 <coolItem id="org.eclipse.wst.server.ui.internal.webbrowser.actionSet" itemType="typeToolBarContribution" x="39" y="22"/>
 <coolItem id="org.eclipse.wst.ws.explorer.explorer" itemType="typeToolBarContribution" x="39" y="22"/>
 <coolItem id="org.eclipse.wst.xml.ui.perspective.NewFileToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
-<coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="62" y="22"/>
+<coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="group.nav" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="183" y="22"/>
 <coolItem id="group.editor" itemType="typeGroupMarker"/>
@@ -27,7 +27,7 @@
 <coolItem id="org.eclipse.datatools.sqltools.sqlscrapbook.SQLScrapbookEditor" itemType="typePlaceholder" x="-1" y="-1"/>
 <coolItem id="org.eclipse.wst.server.ui.editor" itemType="typePlaceholder" x="-1" y="-1"/>
 <coolItem id="org.eclipse.jst.jsp.core.jspsource.source" itemType="typeToolBarContribution" x="-1" y="-1"/>
-<coolItem id="org.eclipse.jdt.ui.PropertiesFileEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jdt.ui.PropertiesFileEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="org.eclipse.datatools.sqltools.data.internal.ui.editor.tableDataEditor" itemType="typePlaceholder" x="-1" y="-1"/>
 <coolItem id="org.eclipse.jpt.jpa.ui.internal.editors.PersistenceEditor" itemType="typePlaceholder" x="-1" y="-1"/>
 <coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typePlaceholder" x="-1" y="-1"/>
@@ -53,46 +53,68 @@
 <part id="7"/>
 <part id="8"/>
 <part id="9"/>
+<part id="10"/>
+<part id="11"/>
+<part id="12"/>
+<part id="13"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AlertManagerController.java" partName="AlertManagerController.java" path="E:/Acme-Explorer(MV)/Acme-Explorer(V2)/src/main/java/controllers/manager/AlertManagerController.java" title="AlertManagerController.java" tooltip="Acme-Explorer(V2)/src/main/java/controllers/manager/AlertManagerController.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Acme-Explorer(V2)/src/main/java/controllers/manager/AlertManagerController.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2591" selectionTopPixel="990"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PopulateDatabase.java" partName="PopulateDatabase.java" path="E:/ProyectosDP/Acme-Explorer(Manager-Trip)/Acme-Explorer(Manager-Trip)/src/main/java/utilities/PopulateDatabase.java" title="PopulateDatabase.java" tooltip="Acme-Explorer/src/main/java/utilities/PopulateDatabase.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Acme-Explorer/src/main/java/utilities/PopulateDatabase.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2626" selectionTopPixel="630"/>
 </editor>
-<editor activePart="true" focus="true" id="org.eclipse.jst.jsp.core.jspsource.source" name="detailed-trip.jsp" partName="detailed-trip.jsp" path="E:/Acme-Explorer(MV)/Acme-Explorer(V2)/src/main/webapp/views/trip/detailed-trip.jsp" title="detailed-trip.jsp" tooltip="Acme-Explorer(V2)/src/main/webapp/views/trip/detailed-trip.jsp" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Acme-Explorer(V2)/src/main/webapp/views/trip/detailed-trip.jsp"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="5446" selectionTopPixel="2598"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="QueryDatabase.java" partName="QueryDatabase.java" path="E:/ProyectosDP/Acme-Explorer(Manager-Trip)/Acme-Explorer(Manager-Trip)/src/main/java/utilities/QueryDatabase.java" title="QueryDatabase.java" tooltip="Acme-Explorer/src/main/java/utilities/QueryDatabase.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Acme-Explorer/src/main/java/utilities/QueryDatabase.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="770" selectionTopPixel="0"/>
 </editor>
-<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="header.jsp" partName="header.jsp" path="E:/Acme-Explorer(MV)/Acme-Explorer(V2)/src/main/webapp/views/master-page/header.jsp" title="header.jsp" tooltip="Acme-Explorer(V2)/src/main/webapp/views/master-page/header.jsp" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Acme-Explorer(V2)/src/main/webapp/views/master-page/header.jsp"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="8837" selectionTopPixel="3203"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TripRepository.java" partName="TripRepository.java" path="E:/ProyectosDP/Acme-Explorer(Manager-Trip)/Acme-Explorer(Manager-Trip)/src/main/java/repositories/TripRepository.java" title="TripRepository.java" tooltip="Acme-Explorer/src/main/java/repositories/TripRepository.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Acme-Explorer/src/main/java/repositories/TripRepository.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="860" selectionTopPixel="90"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PopulateDatabase.java" partName="PopulateDatabase.java" path="E:/Acme-Explorer(MV)/Acme-Explorer(V2)/src/main/java/utilities/PopulateDatabase.java" title="PopulateDatabase.java" tooltip="Acme-Explorer(V2)/src/main/java/utilities/PopulateDatabase.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Acme-Explorer(V2)/src/main/java/utilities/PopulateDatabase.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="928" selectionTopPixel="0"/>
+<editor id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="PopulateDatabase.xml" partName="PopulateDatabase.xml" path="E:/ProyectosDP/Acme-Explorer(Manager-Trip)/Acme-Explorer(Manager-Trip)/src/main/resources/PopulateDatabase.xml" title="PopulateDatabase.xml" tooltip="Acme-Explorer/src/main/resources/PopulateDatabase.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Acme-Explorer/src/main/resources/PopulateDatabase.xml"/>
 </editor>
-<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="edit.jsp" partName="edit.jsp" path="E:/Acme-Explorer(MV)/Acme-Explorer(V2)/src/main/webapp/views/alert/edit.jsp" title="edit.jsp" tooltip="Acme-Explorer(V2)/src/main/webapp/views/alert/edit.jsp" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Acme-Explorer(V2)/src/main/webapp/views/alert/edit.jsp"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="576"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CreditCard.java" partName="CreditCard.java" path="E:/ProyectosDP/Acme-Explorer(Manager-Trip)/Acme-Explorer(Manager-Trip)/src/main/java/domain/CreditCard.java" title="CreditCard.java" tooltip="Acme-Explorer/src/main/java/domain/CreditCard.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Acme-Explorer/src/main/java/domain/CreditCard.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="731" selectionTopPixel="31"/>
 </editor>
-<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="list.jsp" partName="list.jsp" path="E:/Acme-Explorer(MV)/Acme-Explorer(V2)/src/main/webapp/views/alert/list.jsp" title="list.jsp" tooltip="Acme-Explorer(V2)/src/main/webapp/views/alert/list.jsp" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Acme-Explorer(V2)/src/main/webapp/views/alert/list.jsp"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1555" selectionTopPixel="374"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Alert.java" partName="Alert.java" path="E:/ProyectosDP/Acme-Explorer(Manager-Trip)/Acme-Explorer(Manager-Trip)/src/main/java/domain/Alert.java" title="Alert.java" tooltip="Acme-Explorer/src/main/java/domain/Alert.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Acme-Explorer/src/main/java/domain/Alert.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="826" selectionTopPixel="0"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TripController.java" partName="TripController.java" path="E:/Acme-Explorer(MV)/Acme-Explorer(V2)/src/main/java/controllers/TripController.java" title="TripController.java" tooltip="Acme-Explorer(V2)/src/main/java/controllers/TripController.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Acme-Explorer(V2)/src/main/java/controllers/TripController.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="13804" selectionTopPixel="5270"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AlertManagerController.java" partName="AlertManagerController.java" path="E:/ProyectosDP/Acme-Explorer(Manager-Trip)/Acme-Explorer(Manager-Trip)/src/main/java/controllers/manager/AlertManagerController.java" title="AlertManagerController.java" tooltip="Acme-Explorer/src/main/java/controllers/manager/AlertManagerController.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Acme-Explorer/src/main/java/controllers/manager/AlertManagerController.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1671" selectionTopPixel="283"/>
 </editor>
-<editor id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="PopulateDatabase.xml" partName="PopulateDatabase.xml" path="E:/Acme-Explorer(MV)/Acme-Explorer(V2)/src/main/resources/PopulateDatabase.xml" title="PopulateDatabase.xml" tooltip="Acme-Explorer(V2)/src/main/resources/PopulateDatabase.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Acme-Explorer(V2)/src/main/resources/PopulateDatabase.xml"/>
+<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="list.jsp" partName="list.jsp" path="E:/ProyectosDP/Acme-Explorer(Manager-Trip)/Acme-Explorer(Manager-Trip)/src/main/webapp/views/alert/list.jsp" title="list.jsp" tooltip="Acme-Explorer/src/main/webapp/views/alert/list.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Acme-Explorer/src/main/webapp/views/alert/list.jsp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1083" selectionTopPixel="360"/>
 </editor>
-<editor id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="tiles_es.xml" partName="tiles_es.xml" path="E:/Acme-Explorer(MV)/Acme-Explorer(V2)/src/main/webapp/views/alert/tiles_es.xml" title="tiles_es.xml" tooltip="Acme-Explorer(V2)/src/main/webapp/views/alert/tiles_es.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Acme-Explorer(V2)/src/main/webapp/views/alert/tiles_es.xml"/>
+<editor id="org.eclipse.jdt.ui.PropertiesFileEditor" name="messages.properties" partName="messages.properties" path="E:/ProyectosDP/Acme-Explorer(Manager-Trip)/Acme-Explorer(Manager-Trip)/src/main/webapp/views/alert/messages.properties" title="messages.properties" tooltip="Acme-Explorer/src/main/webapp/views/alert/messages.properties" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Acme-Explorer/src/main/webapp/views/alert/messages.properties"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
 </editor>
-<editor id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="tiles.xml" partName="tiles.xml" path="E:/Acme-Explorer(MV)/Acme-Explorer(V2)/src/main/webapp/views/alert/tiles.xml" title="tiles.xml" tooltip="Acme-Explorer(V2)/src/main/webapp/views/alert/tiles.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Acme-Explorer(V2)/src/main/webapp/views/alert/tiles.xml"/>
+<editor id="org.eclipse.jdt.ui.PropertiesFileEditor" name="messages_es.properties" partName="messages_es.properties" path="E:/ProyectosDP/Acme-Explorer(Manager-Trip)/Acme-Explorer(Manager-Trip)/src/main/webapp/views/alert/messages_es.properties" title="messages_es.properties" tooltip="Acme-Explorer/src/main/webapp/views/alert/messages_es.properties" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Acme-Explorer/src/main/webapp/views/alert/messages_es.properties"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.wst.css.core.csssource.source" name="common.css" partName="common.css" path="E:/ProyectosDP/Acme-Explorer(Manager-Trip)/Acme-Explorer(Manager-Trip)/src/main/webapp/styles/common.css" title="common.css" tooltip="Acme-Explorer/src/main/webapp/styles/common.css" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Acme-Explorer/src/main/webapp/styles/common.css"/>
+<editorState selectionHorizontalPixel="0" selectionLength="17" selectionOffset="257" selectionTopPixel="101"/>
+</editor>
+<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="detailed-trip.jsp" partName="detailed-trip.jsp" path="E:/ProyectosDP/Acme-Explorer(Manager-Trip)/Acme-Explorer(Manager-Trip)/src/main/webapp/views/trip/detailed-trip.jsp" title="detailed-trip.jsp" tooltip="Acme-Explorer/src/main/webapp/views/trip/detailed-trip.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Acme-Explorer/src/main/webapp/views/trip/detailed-trip.jsp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="129" selectionOffset="826" selectionTopPixel="119"/>
+</editor>
+<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="edit.jsp" partName="edit.jsp" path="E:/ProyectosDP/Acme-Explorer(Manager-Trip)/Acme-Explorer(Manager-Trip)/src/main/webapp/views/alert/edit.jsp" title="edit.jsp" tooltip="Acme-Explorer/src/main/webapp/views/alert/edit.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Acme-Explorer/src/main/webapp/views/alert/edit.jsp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="816"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.jst.jsp.core.jspsource.source" name="register-ranger.jsp" partName="register-ranger.jsp" path="E:/ProyectosDP/Acme-Explorer(Manager-Trip)/Acme-Explorer(Manager-Trip)/src/main/webapp/views/actor/register-ranger.jsp" title="register-ranger.jsp" tooltip="Acme-Explorer/src/main/webapp/views/actor/register-ranger.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Acme-Explorer/src/main/webapp/views/actor/register-ranger.jsp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="423" selectionTopPixel="0"/>
 </editor>
 </editors>
 <views>
@@ -142,9 +164,6 @@
 </view>
 <view id="org.eclipse.ui.views.ProblemView" partName="Problems">
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
-<expanded>
-<category IMemento.internal.id="Warnings (15 items)"/>
-</expanded>
 <columnWidths org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="90" org.eclipse.ui.ide.pathField="219" org.eclipse.ui.ide.resourceField="90" org.eclipse.ui.ide.severityAndDescriptionField="300"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
@@ -160,7 +179,7 @@
 <viewState CommonNavigator.LINKING_ENABLED="0"/>
 </view>
 </views>
-<perspectives activePart="org.eclipse.jst.jsp.core.jspsource.source" activePerspective="org.eclipse.jst.j2ee.J2EEPerspective">
+<perspectives activePart="org.eclipse.wst.server.ui.ServersView" activePerspective="org.eclipse.jst.j2ee.J2EEPerspective">
 <perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor class="org.eclipse.jst.j2ee.internal.perspective.J2EEPerspective" id="org.eclipse.jst.j2ee.J2EEPerspective" label="Java EE"/>
 <alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
@@ -336,7 +355,7 @@
 </presentation>
 </folder>
 </info>
-<info part="org.eclipse.ui.editorss" ratio="0.20355555" ratioLeft="229" ratioRight="896" relationship="2" relative="org.eclipse.ui.internal.ViewStack@5c6ae889"/>
+<info part="org.eclipse.ui.editorss" ratio="0.2871111" ratioLeft="323" ratioRight="802" relationship="2" relative="org.eclipse.ui.internal.ViewStack@5c6ae889"/>
 </mainWindow>
 </layout>
 </perspective>
@@ -346,144 +365,31 @@
 <editors>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Acme-Explorer(V2)/src/main/java/controllers/manager/AlertManagerController.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/Acme-Explorer(V2)/src/main/webapp/views/trip/detailed-trip.jsp"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/Acme-Explorer(V2)/src/main/webapp/views/master-page/header.jsp"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Acme-Explorer(V2)/src/main/java/utilities/PopulateDatabase.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/Acme-Explorer(V2)/src/main/webapp/views/alert/edit.jsp"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/Acme-Explorer(V2)/src/main/webapp/views/alert/list.jsp"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Acme-Explorer(V2)/src/main/java/domain/Stage.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Acme-Explorer(V2)/src/main/java/domain/Trip.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Acme-Explorer(V2)/src/main/java/controllers/TripController.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" path="/Acme-Explorer(V2)/src/main/resources/PopulateDatabase.xml"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" path="/Acme-Explorer(V2)/src/main/webapp/views/alert/tiles_es.xml"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" path="/Acme-Explorer(V2)/src/main/webapp/views/alert/tiles.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Acme-Explorer/src/main/java/utilities/PopulateDatabase.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Acme-Explorer/src/main/java/utilities/QueryDatabase.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Acme-Explorer/src/main/java/repositories/TripRepository.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" path="/Acme-Explorer/src/main/resources/PopulateDatabase.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Acme-Explorer/src/main/java/domain/CreditCard.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Acme-Explorer/src/main/java/domain/Alert.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Acme-Explorer/src/main/java/controllers/manager/AlertManagerController.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/Acme-Explorer/src/main/webapp/views/alert/list.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/Acme-Explorer/src/main/webapp/views/trip/detailed-trip.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Acme-Explorer/src/main/java/utilities/PopulateDatabase.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.PropertiesFileEditor" path="/Acme-Explorer/src/main/webapp/views/alert/messages.properties"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.PropertiesFileEditor" path="/Acme-Explorer/src/main/webapp/views/alert/messages_es.properties"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.css.core.csssource.source" path="/Acme-Explorer/src/main/webapp/styles/common.css"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/Acme-Explorer/src/main/webapp/views/alert/edit.jsp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" path="/Acme-Explorer/src/main/webapp/views/actor/register-ranger.jsp"/>
 </editors>
-<item historyLabel="detailed-trip.jsp" index="1">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="AlertManagerController.java" index="0">
-<position info="not_deleted" x="1001" y="0"/>
-</item>
-<item historyLabel="AlertManagerController.java" index="0">
-<position info="not_deleted" x="3001" y="0"/>
-</item>
-<item historyLabel="AlertManagerController.java" index="0">
-<position info="not_deleted" x="3010" y="0"/>
-</item>
-<item historyLabel="AlertManagerController.java" index="0">
-<position info="not_deleted" x="2280" y="0"/>
-</item>
-<item historyLabel="header.jsp" index="2">
-<position info="not_deleted" x="8837" y="0"/>
-</item>
-<item historyLabel="PopulateDatabase.java" index="3">
-<position info="not_deleted" x="928" y="0"/>
-</item>
-<item historyLabel="detailed-trip.jsp" index="1">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="edit.jsp" index="4">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="list.jsp" index="5">
-<position info="not_deleted" x="1641" y="201"/>
-</item>
-<item historyLabel="detailed-trip.jsp" index="1">
-<position info="not_deleted" x="8004" y="0"/>
-</item>
-<item historyLabel="Stage.java" index="6">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="detailed-trip.jsp" index="1">
-<position info="not_deleted" x="2505" y="0"/>
-</item>
-<item historyLabel="Trip.java" index="7">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="detailed-trip.jsp" index="1">
-<position info="not_deleted" x="4899" y="0"/>
-</item>
-<item historyLabel="AlertManagerController.java" index="0">
-<position info="not_deleted" x="2280" y="0"/>
-</item>
-<item historyLabel="detailed-trip.jsp" index="1">
-<position info="not_deleted" x="4132" y="0"/>
-</item>
-<item historyLabel="TripController.java" index="8">
-<position info="not_deleted" x="13796" y="6"/>
-</item>
-<item historyLabel="list.jsp" index="5">
-<position info="not_deleted" x="1636" y="0"/>
-</item>
-<item historyLabel="detailed-trip.jsp" index="1">
-<position info="not_deleted" x="4132" y="0"/>
-</item>
-<item historyLabel="TripController.java" index="8">
-<position info="not_deleted" x="13804" y="0"/>
-</item>
-<item historyLabel="detailed-trip.jsp" index="1">
-<position info="not_deleted" x="4070" y="0"/>
-</item>
-<item historyLabel="AlertManagerController.java" index="0">
-<position info="not_deleted" x="2280" y="0"/>
-</item>
-<item historyLabel="AlertManagerController.java" index="0">
-<position info="not_deleted" x="2579" y="0"/>
-</item>
-<item historyLabel="AlertManagerController.java" index="0">
-<position info="not_deleted" x="2591" y="0"/>
-</item>
-<item historyLabel="AlertManagerController.java" index="0">
-<position info="not_deleted" x="2593" y="0"/>
-</item>
-<item historyLabel="AlertManagerController.java" index="0">
-<position info="not_deleted" x="2591" y="0"/>
-</item>
-<item historyLabel="AlertManagerController.java" index="0">
-<position info="not_deleted" x="2658" y="0"/>
-</item>
-<item historyLabel="AlertManagerController.java" index="0">
-<position info="not_deleted" x="2702" y="0"/>
-</item>
-<item historyLabel="AlertManagerController.java" index="0">
-<position info="not_deleted" x="2704" y="0"/>
-</item>
-<item historyLabel="AlertManagerController.java" index="0">
-<position info="not_deleted" x="2895" y="0"/>
-</item>
-<item historyLabel="list.jsp" index="5">
-<position info="not_deleted" x="1054" y="0"/>
-</item>
-<item historyLabel="PopulateDatabase.xml" index="9">
-<position info="not_deleted" x="52968" y="0"/>
-</item>
-<item historyLabel="PopulateDatabase.java" index="3">
-<position info="not_deleted" x="928" y="0"/>
-</item>
-<item historyLabel="AlertManagerController.java" index="0">
-<position info="not_deleted" x="2591" y="0"/>
-</item>
-<item historyLabel="AlertManagerController.java" index="0">
-<position info="not_deleted" x="2658" y="0"/>
-</item>
-<item historyLabel="AlertManagerController.java" index="0">
-<position info="not_deleted" x="2589" y="0"/>
-</item>
-<item historyLabel="AlertManagerController.java" index="0">
-<position info="not_deleted" x="2601" y="0"/>
-</item>
-<item historyLabel="PopulateDatabase.xml" index="9">
-<position info="not_deleted" x="52849" y="0"/>
-</item>
-<item historyLabel="PopulateDatabase.java" index="3">
-<position info="not_deleted" x="928" y="0"/>
-</item>
-<item historyLabel="detailed-trip.jsp" index="1">
-<position info="not_deleted" x="4070" y="0"/>
-</item>
-<item historyLabel="PopulateDatabase.xml" index="9">
+<item historyLabel="PopulateDatabase.xml" index="4">
 <position info="not_deleted" x="108621" y="0"/>
 </item>
-<item historyLabel="PopulateDatabase.java" index="3">
+<item historyLabel="PopulateDatabase.java" index="2">
 <position info="not_deleted" x="928" y="0"/>
 </item>
 <item historyLabel="AlertManagerController.java" index="0">
@@ -492,20 +398,143 @@
 <item historyLabel="AlertManagerController.java" index="0">
 <position info="not_deleted" x="2591" y="0"/>
 </item>
-<item historyLabel="tiles_es.xml" index="10">
+<item historyLabel="tiles_es.xml" index="5">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="tiles.xml" index="11">
+<item historyLabel="tiles.xml" index="6">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="tiles_es.xml" index="10">
+<item historyLabel="tiles_es.xml" index="5">
 <position info="not_deleted" x="382" y="0"/>
 </item>
-<item historyLabel="list.jsp" index="5">
+<item historyLabel="list.jsp" index="3">
 <position info="not_deleted" x="1555" y="0"/>
 </item>
-<item active="true" historyLabel="detailed-trip.jsp" index="1">
-<position info="not_deleted" x="4070" y="0"/>
+<item historyLabel="detailed-trip.jsp" index="1">
+<position/>
+</item>
+<item historyLabel="PopulateDatabase.java" index="7">
+<position info="not_deleted" x="1050" y="0"/>
+</item>
+<item historyLabel="QueryDatabase.java" index="8">
+<position info="not_deleted" x="4" y="0"/>
+</item>
+<item historyLabel="TripRepository.java" index="9">
+<position info="not_deleted" x="552" y="83"/>
+</item>
+<item historyLabel="QueryDatabase.java" index="8">
+<position info="not_deleted" x="770" y="0"/>
+</item>
+<item historyLabel="TripRepository.java" index="9">
+<position info="not_deleted" x="860" y="0"/>
+</item>
+<item historyLabel="PopulateDatabase.xml" index="10">
+<position info="not_deleted" x="52299" y="0"/>
+</item>
+<item historyLabel="PopulateDatabase.java" index="7">
+<position info="not_deleted" x="1050" y="0"/>
+</item>
+<item historyLabel="CreditCard.java" index="11">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Alert.java" index="12">
+<position info="not_deleted" x="826" y="0"/>
+</item>
+<item historyLabel="AlertManagerController.java" index="13">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="AlertManagerController.java" index="13">
+<position info="not_deleted" x="2116" y="0"/>
+</item>
+<item historyLabel="AlertManagerController.java" index="13">
+<position info="not_deleted" x="2120" y="0"/>
+</item>
+<item historyLabel="AlertManagerController.java" index="13">
+<position info="not_deleted" x="2111" y="4"/>
+</item>
+<item historyLabel="AlertManagerController.java" index="13">
+<position info="not_deleted" x="2120" y="0"/>
+</item>
+<item historyLabel="AlertManagerController.java" index="13">
+<position info="not_deleted" x="4344" y="0"/>
+</item>
+<item historyLabel="AlertManagerController.java" index="13">
+<position info="not_deleted" x="4348" y="0"/>
+</item>
+<item historyLabel="AlertManagerController.java" index="13">
+<position info="not_deleted" x="1543" y="0"/>
+</item>
+<item historyLabel="AlertManagerController.java" index="13">
+<position info="not_deleted" x="1671" y="0"/>
+</item>
+<item historyLabel="list.jsp" index="14">
+<position info="not_deleted" x="882" y="0"/>
+</item>
+<item historyLabel="detailed-trip.jsp" index="15">
+<position info="not_deleted" x="11662" y="11"/>
+</item>
+<item historyLabel="list.jsp" index="14">
+<position info="not_deleted" x="882" y="0"/>
+</item>
+<item historyLabel="PopulateDatabase.java" index="16">
+<position info="not_deleted" x="4" y="0"/>
+</item>
+<item historyLabel="PopulateDatabase.java" index="16">
+<position info="not_deleted" x="2626" y="0"/>
+</item>
+<item historyLabel="list.jsp" index="14">
+<position info="not_deleted" x="1867" y="0"/>
+</item>
+<item historyLabel="messages.properties" index="17">
+<position info="not_deleted" x="358" y="0"/>
+</item>
+<item historyLabel="messages_es.properties" index="18">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="messages.properties" index="17">
+<position info="not_deleted" x="358" y="0"/>
+</item>
+<item historyLabel="list.jsp" index="14">
+<position info="not_deleted" x="1711" y="0"/>
+</item>
+<item historyLabel="detailed-trip.jsp" index="15">
+<position info="not_deleted" x="11391" y="0"/>
+</item>
+<item historyLabel="list.jsp" index="14">
+<position info="not_deleted" x="1711" y="0"/>
+</item>
+<item historyLabel="messages.properties" index="17">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="messages_es.properties" index="18">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="messages.properties" index="17">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="list.jsp" index="14">
+<position info="not_deleted" x="1872" y="0"/>
+</item>
+<item historyLabel="common.css" index="19">
+<position info="not_deleted" x="257" y="17"/>
+</item>
+<item historyLabel="detailed-trip.jsp" index="15">
+<position info="not_deleted" x="5342" y="0"/>
+</item>
+<item historyLabel="list.jsp" index="14">
+<position info="not_deleted" x="2215" y="0"/>
+</item>
+<item historyLabel="detailed-trip.jsp" index="15">
+<position info="not_deleted" x="826" y="129"/>
+</item>
+<item historyLabel="list.jsp" index="14">
+<position info="not_deleted" x="1083" y="0"/>
+</item>
+<item historyLabel="edit.jsp" index="20">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item active="true" historyLabel="register-ranger.jsp" index="21">
+<position info="not_deleted" x="0" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -513,13 +542,6 @@
 <workbenchWindowAdvisor/>
 <actionBarAdvisor/>
 <trimLayout>
-<trimArea IMemento.internal.id="16384">
-<trimItem IMemento.internal.id="org.eclipse.ui.internal.ViewStack@5c6ae889"/>
-</trimArea>
-<trimArea IMemento.internal.id="131072">
-<trimItem IMemento.internal.id="org.eclipse.ui.internal.ViewStack@3edd044d"/>
-<trimItem IMemento.internal.id="org.eclipse.ui.internal.ViewStack@42137ac0"/>
-</trimArea>
 <trimArea IMemento.internal.id="128">
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
 <trimItem IMemento.internal.id="org.eclipse.mylyn.tasks.ui.trim.container"/>
@@ -530,55 +552,54 @@
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.ViewStack@1d14958a"/>
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.ViewStack@631ebf05"/>
-<trimItem IMemento.internal.id="org.eclipse.ui.internal.ViewStack@4c02bc48"/>
 </trimArea>
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="register-ranger.jsp" tooltip="Acme-Explorer/src/main/webapp/views/actor/register-ranger.jsp">
+<persistable path="/Acme-Explorer/src/main/webapp/views/actor/register-ranger.jsp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="edit.jsp" tooltip="Acme-Explorer/src/main/webapp/views/alert/edit.jsp">
+<persistable path="/Acme-Explorer/src/main/webapp/views/alert/edit.jsp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="detailed-trip.jsp" tooltip="Acme-Explorer/src/main/webapp/views/trip/detailed-trip.jsp">
+<persistable path="/Acme-Explorer/src/main/webapp/views/trip/detailed-trip.jsp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.css.core.csssource.source" name="common.css" tooltip="Acme-Explorer/src/main/webapp/styles/common.css">
+<persistable path="/Acme-Explorer/src/main/webapp/styles/common.css"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.PropertiesFileEditor" name="messages_es.properties" tooltip="Acme-Explorer/src/main/webapp/views/alert/messages_es.properties">
+<persistable path="/Acme-Explorer/src/main/webapp/views/alert/messages_es.properties"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.PropertiesFileEditor" name="messages.properties" tooltip="Acme-Explorer/src/main/webapp/views/alert/messages.properties">
+<persistable path="/Acme-Explorer/src/main/webapp/views/alert/messages.properties"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="list.jsp" tooltip="Acme-Explorer/src/main/webapp/views/alert/list.jsp">
+<persistable path="/Acme-Explorer/src/main/webapp/views/alert/list.jsp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AlertManagerController.java" tooltip="Acme-Explorer/src/main/java/controllers/manager/AlertManagerController.java">
+<persistable path="/Acme-Explorer/src/main/java/controllers/manager/AlertManagerController.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Alert.java" tooltip="Acme-Explorer/src/main/java/domain/Alert.java">
+<persistable path="/Acme-Explorer/src/main/java/domain/Alert.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CreditCard.java" tooltip="Acme-Explorer/src/main/java/domain/CreditCard.java">
+<persistable path="/Acme-Explorer/src/main/java/domain/CreditCard.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="PopulateDatabase.xml" tooltip="Acme-Explorer/src/main/resources/PopulateDatabase.xml">
+<persistable path="/Acme-Explorer/src/main/resources/PopulateDatabase.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TripRepository.java" tooltip="Acme-Explorer/src/main/java/repositories/TripRepository.java">
+<persistable path="/Acme-Explorer/src/main/java/repositories/TripRepository.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="QueryDatabase.java" tooltip="Acme-Explorer/src/main/java/utilities/QueryDatabase.java">
+<persistable path="/Acme-Explorer/src/main/java/utilities/QueryDatabase.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PopulateDatabase.java" tooltip="Acme-Explorer/src/main/java/utilities/PopulateDatabase.java">
+<persistable path="/Acme-Explorer/src/main/java/utilities/PopulateDatabase.java"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="tiles.xml" tooltip="Acme-Explorer(V2)/src/main/webapp/views/alert/tiles.xml">
 <persistable path="/Acme-Explorer(V2)/src/main/webapp/views/alert/tiles.xml"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="tiles_es.xml" tooltip="Acme-Explorer(V2)/src/main/webapp/views/alert/tiles_es.xml">
-<persistable path="/Acme-Explorer(V2)/src/main/webapp/views/alert/tiles_es.xml"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="PopulateDatabase.xml" tooltip="Acme-Explorer(V2)/src/main/resources/PopulateDatabase.xml">
-<persistable path="/Acme-Explorer(V2)/src/main/resources/PopulateDatabase.xml"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TripController.java" tooltip="Acme-Explorer(V2)/src/main/java/controllers/TripController.java">
-<persistable path="/Acme-Explorer(V2)/src/main/java/controllers/TripController.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Trip.java" tooltip="Acme-Explorer(V2)/src/main/java/domain/Trip.java">
-<persistable path="/Acme-Explorer(V2)/src/main/java/domain/Trip.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Stage.java" tooltip="Acme-Explorer(V2)/src/main/java/domain/Stage.java">
-<persistable path="/Acme-Explorer(V2)/src/main/java/domain/Stage.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="list.jsp" tooltip="Acme-Explorer(V2)/src/main/webapp/views/alert/list.jsp">
-<persistable path="/Acme-Explorer(V2)/src/main/webapp/views/alert/list.jsp"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="edit.jsp" tooltip="Acme-Explorer(V2)/src/main/webapp/views/alert/edit.jsp">
-<persistable path="/Acme-Explorer(V2)/src/main/webapp/views/alert/edit.jsp"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PopulateDatabase.java" tooltip="Acme-Explorer(V2)/src/main/java/utilities/PopulateDatabase.java">
-<persistable path="/Acme-Explorer(V2)/src/main/java/utilities/PopulateDatabase.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="header.jsp" tooltip="Acme-Explorer(V2)/src/main/webapp/views/master-page/header.jsp">
-<persistable path="/Acme-Explorer(V2)/src/main/webapp/views/master-page/header.jsp"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="detailed-trip.jsp" tooltip="Acme-Explorer(V2)/src/main/webapp/views/trip/detailed-trip.jsp">
-<persistable path="/Acme-Explorer(V2)/src/main/webapp/views/trip/detailed-trip.jsp"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AlertManagerController.java" tooltip="Acme-Explorer(V2)/src/main/java/controllers/manager/AlertManagerController.java">
-<persistable path="/Acme-Explorer(V2)/src/main/java/controllers/manager/AlertManagerController.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="edit.jsp" tooltip="Acme-Explorer(V2)/src/main/webapp/views/trip/edit.jsp">
-<persistable path="/Acme-Explorer(V2)/src/main/webapp/views/trip/edit.jsp"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="list.jsp" tooltip="Acme-Explorer(V2)/src/main/webapp/views/dashboard/list.jsp">
-<persistable path="/Acme-Explorer(V2)/src/main/webapp/views/dashboard/list.jsp"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jst.jsp.core.jspsource.source" name="list.jsp" tooltip="Acme-Explorer(V2)/src/main/webapp/views/application/list.jsp">
-<persistable path="/Acme-Explorer(V2)/src/main/webapp/views/application/list.jsp"/>
 </file>
 </mruList>
 </workbench>
