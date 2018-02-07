@@ -1,6 +1,0 @@
-package controllers.manager;
-
-
-public class AlertManagerController {
-
-}

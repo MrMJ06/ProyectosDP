@@ -1,7 +1,0 @@
-INDEX VERSION 1.122+E:\Acme-Explorer(Manager-Trip)\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-1191818639.index
-2790941943.index
-2913232611.index
-677097698.index
-3649367271.index
-1266793428.index

@@ -1,9 +1,0 @@
-package controllers.manager;
-
-import controllers.AbstractController;
-
-@Controller
-@Transactional
-public class AlertManagerController extends AbstractController{
-
-}
